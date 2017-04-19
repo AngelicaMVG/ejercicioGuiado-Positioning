@@ -1,4 +1,4 @@
-var contenedor = document.getElementById('contenedor');
+var contenedor = document.getElementsByClassName('contenedor')[0];
 var rosa = document.getElementById('rosa');
 var azul = document.getElementById('azul');
 var verde = document.getElementById('verde');
